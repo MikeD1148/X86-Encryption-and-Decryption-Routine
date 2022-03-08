@@ -1,0 +1,882 @@
+
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 16:17:03
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ifmmp	Hex = 69  66  6d  6d  70  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 16:24:26
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ifmmp	Hex = 69  66  6d  6d  70  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 16:30:26
+
+Original string =  helol	Hex = 68  65  6c  6f  08  6c  
+
+Encrypted string = ifmp	m	Hex = 69  66  6d  70  9  6d  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 16:38:53
+
+Original string =  hell0 	Hex = 68  65  6c  6c  30  
+
+Encrypted string = ifmm1	Hex = 69  66  6d  6d  31  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 16:39:19
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ifmmp	Hex = 69  66  6d  6d  70  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 16:45:34
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = :x:[!	Hex = 3a  78  3a  5b  21  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 27/11/2020  Time: 17:38:50
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 00:58:50
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 01:27:32
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 01:41:08
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 02:08:27
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 03:22:54
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 03:23:39
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 28/11/2020  Time: 03:27:15
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 01:36:15
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 02:10:25
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 16:35:05
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 16:35:09
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:36:13
+
+Original string =  9w9Z  	Hex = 39  77  39  5a  20  
+
+Encrypted string = ¨TD	Hex = ac  54  1e  c  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:37:05
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:40:11
+
+Original string =  ∞ello 	Hex = b0  65  6c  6c  6f  
+
+Encrypted string = –ÀÅ	Hex = e  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:40:39
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:43:13
+
+Original string =  hhhhh 	Hex = 68  68  68  68  68  
+
+Encrypted string = ¯ ÄV	Hex = f8  13  ca  80  56  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:43:38
+
+Original string =  hhhhh 	Hex = 68  68  68  68  68  
+
+Encrypted string = ¯ ÄV	Hex = f8  13  ca  80  56  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:44:10
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 18:44:30
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 29/11/2020  Time: 19:19:29
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 30/11/2020  Time: 16:47:39
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 30/11/2020  Time: 17:39:13
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 30/11/2020  Time: 18:53:54
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 30/11/2020  Time: 18:56:42
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = øæ‹~	Hex = bf  1e  be  dc  7e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 01/12/2020  Time: 22:13:07
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = bc‹£	Hex = 62  1e  63  dc  a3  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 01/12/2020  Time: 22:16:42
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = øæ‹~	Hex = bf  1e  be  dc  7e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 01/12/2020  Time: 23:56:41
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = øæ‹~	Hex = bf  1e  be  dc  7e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 00:25:06
+
+Original string =  Hello 	Hex = 48  65  6c  6c  6f  
+
+Encrypted string = ∑æ‹~	Hex = b7  1e  be  dc  7e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 00:25:50
+
+Original string =  abcdef	Hex = 61  62  63  64  65  
+
+Encrypted string = ˝_}ﬁ¸	Hex = fd  5f  7d  de  fc  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 00:27:49
+
+Original string =  abcdef	Hex = 61  62  63  64  65  
+
+Encrypted string = ˝_}ﬁ¸	Hex = fd  5f  7d  de  fc  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 00:37:20
+
+Original string =  ABCDEF	Hex = 41  42  43  44  45  
+
+Encrypted string = ıWu÷Ù	Hex = f5  57  75  d6  f4  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 04:04:09
+
+Original string =  ABCDEF	Hex = 41  42  43  44  45  
+
+Encrypted string = &:Ér	Hex = 8  26  3a  83  72  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 04:05:23
+
+Original string =  ABCDEF	Hex = 41  42  43  44  45  
+
+Encrypted string = ˝_}ﬁ¸	Hex = fd  5f  7d  de  fc  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 06:00:20
+
+Original string =  ABCDEF	Hex = 41  42  43  44  45  
+
+Encrypted string = ˝_}ﬁ¸	Hex = fd  5f  7d  de  fc  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 06:02:08
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = øæ‹~	Hex = bf  1e  be  dc  7e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 06:02:57
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = øæ‹~	Hex = bf  1e  be  dc  7e  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 06:05:03
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 06:05:54
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 16:33:59
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 17:15:25
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 18:01:21
+
+Original string =  aaaaa 	Hex = 61  61  61  61  61  
+
+Encrypted string = ∫—Bî	Hex = ba  d1  8  42  94  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 23:33:21
+
+Original string =  pain  	Hex = 70  61  69  6e  20  
+
+Encrypted string = ˛—
+D	Hex = fe  d1  a  1  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 23:33:46
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 23:34:44
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 23:36:03
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 23:42:24
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 02/12/2020  Time: 23:59:45
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 17:54:53
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 18:46:34
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 18:47:19
+
+Original string =  	Hex = 00  00  00  00  00  
+
+Encrypted string = ÍÿíD	Hex = ea  1  d8  92  44  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:40:01
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ıj2	Hex = 1c  f5  6a  32  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:40:42
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ıj2	Hex = 1c  f5  6a  32  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:41:05
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ıj2	Hex = 1c  f5  6a  32  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:45:36
+
+Original string =  hello 	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ıj2	Hex = 1c  f5  6a  32  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:46:47
+
+Original string =        	Hex = 20  20  20  20  20  
+
+Encrypted string = ÍÿíD	Hex = ea  1  d8  92  44  
+
+Decrypted string = ò¡ÆˆU	Hex = 98  c1  ae  f6  55  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:50:12
+
+Original string =        	Hex = 20  20  20  20  20  
+
+Encrypted string = ÍÿíD	Hex = ea  1  d8  92  44  
+
+Decrypted string = ò¡ÆˆU	Hex = 98  c1  ae  f6  55  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:52:29
+
+Original string =        	Hex = 20  20  20  20  20  
+
+Encrypted string = ÍÿíD	Hex = ea  1  d8  92  44  
+
+Decrypted string = ò¡ÆˆU	Hex = 98  c1  ae  f6  55  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:53:02
+
+Original string =  	Hex = 00  00  00  00  00  
+
+Encrypted string = ÍÿíD	Hex = ea  1  d8  92  44  
+
+Decrypted string = ò¡ÆˆU	Hex = 98  c1  ae  f6  55  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 21:54:24
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ıj2	Hex = 1c  f5  6a  32  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 23:17:32
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = 	Hex = 1  1  1  1  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 11/01/2021  Time: 23:25:46
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = 	Hex = 1  1  1  1  1  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 18:57:12
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 19:52:38
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 19:52:54
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ÑÑÑÑÑ	Hex = 84  84  84  84  84  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 19:53:26
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = ®®®®®	Hex = a8  a8  a8  a8  a8  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 19:54:18
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 19:55:23
+
+Original string =  hello	Hex = 68  65  6c  6c  6f  
+
+Encrypted string = ¯–ÀÅ	Hex = f8  d0  cb  81  17  
+
+Decrypted string = hello	Hex = 68  65  6c  6c  6f  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 19:56:00
+
+Original string =  whhar	Hex = 77  68  68  61  72  
+
+Encrypted string = ? B–	Hex = 3f  13  ca  42  d0  
+
+Decrypted string = whhar	Hex = 77  68  68  61  72  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 20:22:39
+
+Original string =  whhar	Hex = 77  68  68  61  72  
+
+Encrypted string = ? B–	Hex = 3f  13  ca  42  d0  
+
+Decrypted string = whhar	Hex = 77  68  68  61  72  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 20:23:08
+
+Original string =  AndyS	Hex = 41  6e  64  79  53  
+
+Encrypted string = ∫í…D	Hex = ba  92  c9  44  10  
+
+Decrypted string = andys	Hex = 61  6e  64  79  73  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 20:24:55
+
+Original string =  AndyS	Hex = 41  6e  64  79  53  
+
+Encrypted string = ∫í…D	Hex = ba  92  c9  44  10  
+
+Decrypted string = ANDYS	Hex = 41  4e  44  59  53  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 22:19:51
+
+Original string =  andy 	Hex = 61  6e  64  79  20  
+
+Encrypted string = ∫í…DD	Hex = ba  92  c9  44  44  
+
+Decrypted string = andy 	Hex = 61  6e  64  79  20  
+
+-------------------------------------------------------------
+
+FoMCA Encryption program results (Michael Watling) Encryption key = 'a'
+Date: 12/01/2021  Time: 22:28:01
+
+Original string =  andy 	Hex = 61  6e  64  79  20  
+
+Encrypted string = ∫í…DD	Hex = ba  92  c9  44  44  
+
+Decrypted string = andy 	Hex = 61  6e  64  79  20  
+
+-------------------------------------------------------------
